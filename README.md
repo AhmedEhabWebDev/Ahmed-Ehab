@@ -1,14 +1,14 @@
 <h1 align="center">Ahmed Ehab</h1>
-<h3 align="center">Backend Engineer | Node.js & NestJS</h3>
+<h3 align="center">Backend Engineer | Node.js • NestJS • Express.js</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/ahmed-ehab-776b72253" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/AhmedEhabWebDev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ahmede2003519@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -16,8 +16,8 @@
 ---
 
 ## Professional Summary
-Backend Engineer specialized in **Node.js** and **NestJS**, focused on building **scalable, secure, and maintainable backend systems**.  
-Experienced in **RESTful API design**, authentication workflows, and writing **unit-tested backend logic** using industry best practices.
+Backend Engineer specialized in **Node.js**, with hands-on experience using both **NestJS** and **Express.js** to build **scalable, secure, and maintainable backend systems**.  
+Strong understanding of **RESTful API design**, authentication workflows, and writing **unit-tested backend code** following clean architecture principles.
 
 ---
 
@@ -35,26 +35,31 @@ Experienced in **RESTful API design**, authentication workflows, and writing **u
 
 ---
 
-## NestJS Expertise
-- Modular application architecture
-- Authentication & Authorization (JWT, Guards, Interceptors)
-- DTOs, Validation Pipes, and Custom Decorators
-- RESTful APIs with Controllers & Services
+## NestJS Experience
+- Building **modular & scalable applications**
+- Controllers, Services, Providers & Modules
+- Authentication & Authorization (JWT, Guards)
+- DTOs, Validation Pipes, Interceptors
 - Unit Testing with Jest
-- Environment-based configuration
+- Environment-based configuration & clean structure
+
+---
+
+## Express.js Experience
+- Building **lightweight RESTful APIs**
+- MVC-based project structure
+- Middleware (Auth, Error Handling, Validation)
+- JWT Authentication & Role-based access
+- API documentation & testing with Postman
+- MongoDB integration using Mongoose
 
 ---
 
 ## Current Focus
 - Advanced NestJS patterns
-- Clean Architecture principles
-- Improving test coverage and code quality
+- Writing clean and testable backend code
+- Designing production-ready APIs
 
 ---
 
-## Featured Projects
-📌 *Pin your most relevant backend & NestJS projects here*
-
----
-
-⭐ Open to backend opportunities and collaborations.
+⭐ Open to backend opportunities and continuous learning.
